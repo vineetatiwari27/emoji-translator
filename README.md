@@ -1,2 +1,2 @@
 # emoji-translator
-Created with CodeSandbox
+This will translate your emoji!!
