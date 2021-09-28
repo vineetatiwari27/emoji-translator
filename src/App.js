@@ -4,6 +4,9 @@ import "./styles.css";
 var emojidictionary = {
   "😊": "smilingEmoji",
   "🐷": "pig face",
+  "😍" : "Excited",
+  "😲" : "amused",
+  "😛" : "Teasing",
   "🍇": "grapes",
   "🍉": "water-melon",
   "😎": "cool",
